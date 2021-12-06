@@ -1,0 +1,16 @@
+{
+  "name": "File Chain",
+  "version": "0.1.0",
+  "description": "IPFS  based  file chain for loading content",
+  "main": "main.js",
+  "author": "aaryadev",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.6"
+  }
+}
